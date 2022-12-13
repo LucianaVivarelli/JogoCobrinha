@@ -1,5 +1,7 @@
 # Jogo da Cobrinha
 
+![image](https://user-images.githubusercontent.com/96242187/207252848-8f0bf6b2-197b-4c49-a8c8-05c8acd65e6b.png)
+
 ## Goal
 
 Alimentar a cobrinha com o quadrado vermelho (maça) até que ela não consiga mais se mexer
